@@ -33,8 +33,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Black3406/Blackmusic")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mamaklibirininruhu")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/mamaklimekani")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Blackkmusicdestek")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Blackmusicbott")
 
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
